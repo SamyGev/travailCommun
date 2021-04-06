@@ -1,0 +1,11 @@
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #314b4b;
+    color: #fff;
+}
+footer>a{
+    text-decoration: none;
+    color:red ;
+
+}
