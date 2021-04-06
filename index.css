@@ -1,0 +1,16 @@
+main{
+    width: 100%;
+    background-color: moccasin;
+}
+
+.titreForm{
+    display: flex;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+}
+
+form{
+    display: flex;
+    text-align: center;
+}
