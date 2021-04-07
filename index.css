@@ -43,6 +43,14 @@ table {
 	border-spacing: 0;
 }
 /* FIN DU RESET */
+html{
+    height: 100%;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+
 main{
     width: 100%;
     background-color: moccasin;
@@ -73,10 +81,15 @@ footer {
     display: flex;
     justify-content: center;
     background-color: #314b4b;
-    color: #fff;
+    height: 20%;
 }
 footer>div>p>a{
     text-decoration: none;
     color:red ;
 
 }
+footer>div{
+    padding-left: 2em;
+}
+ 
+  
